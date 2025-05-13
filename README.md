@@ -21,6 +21,38 @@ Margins, paddings, and borders.
 >  - Margin, Padding & Borders
 >  - Different font
 
+Answer:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Web Page</title>
+
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header id="main-header">
+        <h1>Welcome to My Stylish Page</h1>
+    </header>
+
+    <section class="intro">
+        <p>This page demonstrates CSS features such as fonts, margins, paddings, borders, and more.</p>
+    </section>
+
+    <img src="https://via.placeholder.com/200" alt="Sample Image" class="styled-image">
+
+    <footer class="footer">
+        <p>Created with ❤️ using HTML5 and CSS.</p>
+    </footer>
+
+</body>
+</html>
+
+
 # Tasks
  - Link an external CSS file.
  - Apply at least 3 different selectors.

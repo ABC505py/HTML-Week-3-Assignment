@@ -21,6 +21,13 @@ Margins, paddings, and borders.
 >  - Margin, Padding & Borders
 >  - Different font
 
+# Tasks
+ - Link an external CSS file.
+ - Apply at least 3 different selectors.
+ - Improve readability and aesthetics.
+
+Happy Coding! 💻✨
+
 Answer:
 
 <!DOCTYPE html>
@@ -53,9 +60,4 @@ Answer:
 </html>
 
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
 
-Happy Coding! 💻✨
